@@ -35,5 +35,5 @@ Plot the bar graph top 10 restaurants in the data with the highest number of vot
 Plot the pie graph of top 10 cuisines present in restaurants in the USA.
 Plot the bubble graph of a number of Restaurants present in the city of India and keeping the weighted restaurant rating of the city in a bubble.
 
-This Project was done as part of Data Science and Machine Learning Course offered by Coding Ninjas. 
+ 
 
